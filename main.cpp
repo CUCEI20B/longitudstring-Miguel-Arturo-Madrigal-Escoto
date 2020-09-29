@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-    string cadena;
-    getline(cin, cadena);
-    cout << cadena.size() << endl;
+    string c;
+    getline(cin, c);
+    cout << c.size() << endl;
     return 0;
 }
